@@ -1,0 +1,8 @@
+#map {
+    height: 400px;
+    margin: 0rem 5rem -6rem 5rem;
+}
+
+.map-container{
+    border: 1px solid black; 
+}
